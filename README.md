@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey, I'm Subramonian 👋
 
+I'm a fullstack web developer based in India 🇮🇳
+
+## ⚙️ Skills
+
+**Frontend Development:** `ReactJS` `Next.js` `Angular` `Typescript`
 <!--
 **SubramonianInian/subramonianinian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
