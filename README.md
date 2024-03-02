@@ -6,7 +6,7 @@ I'm a fullstack web developer based in India 🇮🇳
 
 **Frontend:** `ReactJS` `Next.js` `Angular` `Typescript`
 
-**Backend:** `NoeJS` `.netcore` `python`
+**Backend:** `NodeJS` `.netcore` `python`
 
 **Devops:** `Azure CI/CD` `Docker` `Terraform` `Helm Charts`
 
