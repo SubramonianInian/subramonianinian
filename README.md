@@ -1,52 +1,58 @@
-# Hey, I'm Subramonian 👋
+# Subramonian Inian
 
-**Fullstack Web Developer** based in India 🇮🇳 • Working remotely
+### Technical Architect · Applied AI Engineering
+**@ Compatio** · India 🇮🇳
 
-I build things for the web — from polished React interfaces to cloud-native backends, with a soft spot for developer tools.
-
----
-
-## 🛠 Tech I work with
-
-**Frontend** — `ReactJS` `Next.js` `Angular` `TypeScript`
-**Backend** — `NodeJS` `.NET Core` `Python`
-**DevOps / Cloud** — `Azure CI/CD` `Docker` `Terraform` `Helm Charts`
+I design and ship production AI systems — LLM-powered agents, retrieval pipelines, and the architecture that lets them scale. Currently focused on making agentic workflows reliable enough to trust in the real world.
 
 ---
 
-## 🚀 Projects I'm proud of
+## 🧠 What I work on
 
-- 🎈 **[free-the-balloons](https://github.com/SubramonianInian/free-the-balloons)** — Interactive TypeScript project
-- 🌐 **[ip-ninja](https://github.com/SubramonianInian/ip-ninja)** — IP address lookup tool
-- 🔧 **[code-forge](https://github.com/SubramonianInian/code-forge)** — A CodePen-style in-browser code playground
-- 📦 **[json-ninja](https://github.com/SubramonianInian/json-ninja)** — A React app for all your JSON needs
-- ☀️ **[react-weather-app](https://github.com/SubramonianInian/react-weather-app)** — Weather app with regional conditions
+**Applied AI** — LLMs · RAG · LangGraph · Agentic systems · Prompt & context engineering · Evals
+**Architecture** — Distributed systems · Event-driven design · API & service boundaries · Cloud-native patterns
+**Platform** — Azure · Docker · Terraform · Helm · CI/CD
 
----
-
-## 🌱 Currently
-
-- Sharpening my skills in cloud-native architecture & IaC
-- Exploring better patterns for fullstack TypeScript apps
-- Open to interesting collaborations
+**Languages & frameworks** — Python · TypeScript · Node.js · .NET Core · React · Next.js
 
 ---
 
-## 📫 Let's connect
+## 🔭 Currently
 
-- 💼 **LinkedIn** — [Subramonian Inian](https://www.linkedin.com/in/subramonian-inian/)
-- 🐙 **GitHub** — [@SubramonianInian](https://github.com/SubramonianInian)
+- Architecting AI-driven products at **Compatio**
+- Building agentic systems with **LangGraph** — multi-step reasoning, tool use, human-in-the-loop
+- Exploring durable patterns for **RAG at scale** — retrieval quality, grounding, evaluation loops
+- Planning to build in public — expect repos & write-ups on agents, evals, and LLM infra soon
+
+---
+
+## 💡 Things I think about
+
+- How do you make an LLM agent *reliable* — not just impressive in a demo?
+- Where does deterministic code end and probabilistic reasoning begin in a real product?
+- What does "good architecture" mean when your core component is non-deterministic?
+
+---
+
+## 🧪 Earlier work
+
+Side projects from my fullstack days — kept here for posterity:
+[free-the-balloons](https://github.com/SubramonianInian/free-the-balloons) ·
+[ip-ninja](https://github.com/SubramonianInian/ip-ninja) ·
+[code-forge](https://github.com/SubramonianInian/code-forge) ·
+[json-ninja](https://github.com/SubramonianInian/json-ninja)
+
+---
+
+## 📫 Let's talk
+
+If you're working on something interesting in **LLM agents, RAG, or AI infrastructure** — or hitting a wall getting AI features to production — I'd love to chat.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/subramonian-inian/)
+- 🐙 [@SubramonianInian](https://github.com/SubramonianInian)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubramonianInian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubramonianInian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubramonianInian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubramonianInian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
