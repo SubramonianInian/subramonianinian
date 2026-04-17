@@ -22,7 +22,16 @@ I design and ship production AI systems — LLM-powered agents, retrieval pipeli
 - Architecting AI-driven products at **Compatio**
 - Building agentic systems with **LangGraph** — multi-step reasoning, tool use, human-in-the-loop
 - Exploring durable patterns for **RAG at scale** — retrieval quality, grounding, evaluation loops
-- Planning to build in public — expect repos & write-ups on agents, evals, and LLM infra soon
+
+---
+
+## 🛠 Building
+
+### [langgraph-patterns](https://github.com/SubramonianInian/langgraph-patterns)
+**Reusable building blocks for production LangGraph agents.**
+An opinionated library of patterns for the problems you actually hit shipping agentic systems — routing, self-correction, human-in-the-loop, graceful degradation. Each pattern is self-contained, provider-agnostic, and explained with tradeoffs + production notes.
+
+Currently ships: `Router` · `Reflect & Retry` · `Human-in-the-Loop` · `Plan → Execute` · `Map-Reduce` · `Memory` · `Tool Guardrails` · `Self-Heal`
 
 ---
 
