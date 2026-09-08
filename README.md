@@ -68,6 +68,6 @@ If you're working on something interesting in **LLM agents, RAG, or AI infrastru
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubramonianInian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubramonianInian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-opal-29.vercel.app/api?username=SubramonianInian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-opal-29.vercel.app/api/top-langs/?username=SubramonianInian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
